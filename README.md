@@ -18,7 +18,7 @@ Protein-Protein Interactions (PPIs) play a crucial role in cellular functions. T
 
 - **Language:** Python  
 - **Libraries:** Biopython, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn  
-- **Data Source:** Custom or public PPI datasets in FASTA/CSV format
+- **Data Source:** Public PPI datasets in FASTA/CSV format
 
 ## 📁 Project Structure
 
